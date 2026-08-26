@@ -3,5 +3,5 @@
 Prompt
 
 ```
-Your goal is to complete the following task on the provided HTML file: https://raw.githubusercontent.com/panchaldeep009/ai-harness-test/refs/heads/main/index.html in current working directory.
+Your goal is to complete the following task presented at https://panchaldeep009.github.io/ai-harness-test/ in current working directory.
 ```
